@@ -131,7 +131,7 @@ for more  information about installing and running Elasticsearch.
 
 Now that you have Elasticsearch running on port 9200 (you do, right?), you can
 easily configure Logstash to use Elasticsearch as its backend. The defaults for
-both Logstash and Elasticsearch are fairly sane and well thought out, so you can
+both Logstash and Elasticsearch are fairly same and well thought out, so you can
 omit the optional configurations within the elasticsearch output:
 
 [source,js]
